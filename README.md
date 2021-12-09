@@ -1,0 +1,1 @@
+# trantor-plugin-error-receiver
